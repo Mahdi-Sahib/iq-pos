@@ -1,0 +1,6 @@
+{
+  "name": "ApexPOS Enterprise - Offline-First Retail Engine",
+  "description": "Enterprise-grade offline-first POS system with strict financial invariants, shift management, transactional outbox sync, and complete architectural deliverables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
